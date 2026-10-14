@@ -13,10 +13,10 @@ namespace Lab02_OOPBasics
 
         public Quanlysinhvien()
         {
-            _ds.Add(new SinhVien("24000091", "Nguyễn Tiến Hùng", new DateTime(2006, 10, 126), 9.2));
+            _ds.Add(new SinhVien("24000091", "Nguyễn Tiến Hùng", new DateTime(2006, 10, 26), 9.2));
             _ds.Add(new SinhVien("24000465", "Lê Đức Bình", new DateTime(2006, 4, 25), 8.1));
             _ds.Add(new SinhVien("24000474", "Nguyễn Thiện Chiến", new DateTime(2006, 9, 27), 7.8));
-            _ds.Add(new SinhVien("24000430", "Hoàng Ngọc Linh", new DateTime(2006, 8, 318), 6.2));
+            _ds.Add(new SinhVien("24000430", "Hoàng Ngọc Linh", new DateTime(2006, 8, 18), 6.2));
             _ds.Add(new SinhVien("24000059", "Lương Hoàng Anh", new DateTime(2006, 12, 28), 5.9));
         }
 
